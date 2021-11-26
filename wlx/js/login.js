@@ -12,7 +12,7 @@ $('#login-button').click(function (event) {
 			},2000);
 		}
 	else{
-		alert("Wrong Password");
+		alert("可以告诉我现在是什么心情吗？");
 	}
 });
 
